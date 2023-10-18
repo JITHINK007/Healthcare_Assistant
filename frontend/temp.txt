@@ -1,8 +1,0 @@
-This is the front end folder
-Do a 
-Home
-login
-register
-pages for the smart-health-assistant application using REACT.
-
-make it such a way that it can be integrated with the backend using node and mongoDB
